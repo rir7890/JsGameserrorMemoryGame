@@ -1,0 +1,16 @@
+body,
+html {
+    margin: 0;
+    text-align: center;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+#grid {
+    height: 300px;
+    width: 300px;
+    margin: 0 auto;
+}
